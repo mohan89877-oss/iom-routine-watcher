@@ -1,4 +1,55 @@
 {
-  "initialized": false,
-  "seen": []
+  "initialized": true,
+  "seen": [
+    {
+      "id": "1Ksb_u6w5ZyV_ed3J-ceEu-xZWGDwQAZe",
+      "title": "Routine of the BAMS 4th Phase Regular & Supplementary Exam 2083",
+      "date": "Oct 08, 2026"
+    },
+    {
+      "id": "1Dcc6ahCEclkH-ZlCHlRs909HsyN4P1EA",
+      "title": "Routine of the PG Level various programs 1st & 2nd Year Supplementary Exam 2083",
+      "date": "Oct 08, 2026"
+    },
+    {
+      "id": "1Jcvmc6ZG18kol0XyCQmwJBUUQY-vwiya",
+      "title": "Routine of the B.Sc.Midwifery (BScM) 6th Semester Regular Exam 2083",
+      "date": "Oct 06, 2026"
+    },
+    {
+      "id": "1UYzV3-O_NvRGA4RrxV7JuvvsHLl8dNlQ",
+      "title": "Practical Routine of the B.Sc.MIT 2nd Year Regular Exam 2083",
+      "date": "Oct 05, 2026"
+    },
+    {
+      "id": "1vzPDWFYoq6-jJyR_t7x8OApM-Q72KiDN",
+      "title": "Practical Routine of the B.Sc.MLT 2nd Year Regular Exam 2083",
+      "date": "Oct 05, 2026"
+    },
+    {
+      "id": "1gvOH7rZYCINQNdhOMP1GpdNXqtwYnBAy",
+      "title": "Practical Routine of the BASLP 2nd Year Regular Exam 2083",
+      "date": "Oct 05, 2026"
+    },
+    {
+      "id": "1fQG5acGotzTTRh4MzR-Fxa_eMS8-AnTp",
+      "title": "Practical Routine of the BPH 2nd Year Regular Exam 2083",
+      "date": "Oct 05, 2026"
+    },
+    {
+      "id": "12kshjooHfkDy4sEEyjvA4EaDPxdLeQre",
+      "title": "Practical Routine of the BAMS 2nd Phase Regular Exam 2083",
+      "date": "Oct 05, 2026"
+    },
+    {
+      "id": "1XOznW7_lNdo2NNDC0fpnuvuudhFiHUd4",
+      "title": "Practical Routine of the B.Sc.Nursing 2nd Year Regular Exam 2083",
+      "date": "Oct 05, 2026"
+    },
+    {
+      "id": "11bXy6lYTi-JpHrFaYbz4S-GzRuMgcShU",
+      "title": "Practical Routine of the B Pharmacy 2nd Year Regular Exam 2083",
+      "date": "Oct 05, 2026"
+    }
+  ]
 }
